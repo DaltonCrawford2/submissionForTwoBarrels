@@ -1,0 +1,18 @@
+About Project:
+
+From Febuary 2016 to June 2018, I worked as a Documet Specialist for One Legal LLC, an attorney services company.
+Here, my job function was to prepare documents and coordinate service of process taking place outside the state of California.
+
+Due to word of mouth, the Director of Engineering came by my desk for a chat about my intentions. 
+In attempts to help and also see my ability level, a project was assigned. If successful, the discussed plan of action was to bring me over to eventually serve as a Front End Developer.
+
+The project in question:
+I was given twelve image files, these images were to be arranged on a page and the user was to be able to rearrange the image order via dragging and dropping.
+
+At the time of assignment, I had not used HTML for web page development at all. Only basic <b><u>STYLIZATION</u></b>. 
+Although, I had grown comfortable hitting F12 while in Google Chrome and searching through the website's code in order to better understand the structure.
+
+This project was given to me on a Friday afternoon, I used my weekend to crash course and refresh on HTML and finished the primary objective by Tuesday. 
+
+I will supply the only found copy of this project.
+It is my only web page development code that I currently have on hand. But I also wanted to showcase a studious tenacity to acclimate to another discipline and execute.
