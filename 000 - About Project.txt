@@ -1,0 +1,46 @@
+About Project:
+While studying Game Design at Academy of Art University, I was fortunate to return to programming and the class Scripting for 3D Engines really resonated with me. 
+
+For our midterm, we were to pitch a game idea and, if approved, we were to start building. This could have been done either as a lone developer or as apart of a group.
+
+My idea was to put the player behind the controls of a spaceship as they sped through a obstacle filled racetrack in space. 
+
+With meteors, shooting stars and space debris in the way, the player was to reach the finish line before the timer or their health ran out. 
+There would also be space invaders along the track that either had set scripted behaviors, or they would seek out the player once in close proximity.
+The player controlled spaceship was outfitted with a weapons system that could eradicate whatever was in their way ... who doesn't like lasers?!
+But, of course, some of these enemies had lasers too.
+But the main surprise was that there was to be a dormant enemy boss waiting for the player if they reached the end. The player was to defeat the boss in order to actually cross the finish line. 
+
+Some enemies moved from one side to another over the span of so many frames. 
+Some would just spin in place. 
+There would be obstacles that just lined along the track, and some that would shoot out of "spawn boxes." 
+I had stationary spawn boxes as well as animated ones that spawned prefab objects which had their own appended scripts that determined ensuing actions.
+
+The Boss at the end would track the player's movements and shoot at them after a set timeframe. 
+
+This was a project where I really wanted to push myself and prove I had a grasp.
+I would use Unity as the game engine and C# as the programming language which was the combination this course specialized.
+I wanted to not just create a game concept, I wanted to build an ecosystem using my code. 
+If the player was affected by another object in the game world, that information needed to be passed to other scripts to maintain cohesiveness whilst the application ran. 
+
+A proper example was that if the player controlled spaceship collided with another instance of an object, what happened? 
+What was the object that was included in the crash? 
+What did that mean, logically and logistally speaking?
+
+Based on the name of the object, a certain integer was subtracted from the remaining amount of health; this amount of damage was a static value.
+The new health value was stored and then also sent out to the scripts that handled my "graphical user interface."
+
+Another example was if the proper button was accessed, then the player instantiated a projectile prefab, 
+this created a laser beam that had a script that told this object that upon creation, it would be animated and move forward, thus launching a death shot.
+If this laser struck something, then depending on the obstacle or enemy, health was subtracted from their stored values and they would be destroyed, if applicable.
+
+The project might not have looked as I wished as I was working full time and also grieving the loss of my Grandmother just weeks prior, but looking back, 
+I am immensely proud of what I was able to accomplish in such a confined window.
+
+The code worked, in essence, how I had hoped. 
+A few features did need working out; space traversal felt could have benefitted from tinkering with the values as well ... 
+but all in all, this project proved I could handle projects that require multiple scripts.
+
+The game was exported into a "Web Build." The game would run in a HTML file you just access with Google Chrome.
+Unfortunately, Unity no longer supports Web Builds ... the add-on for Google Chrome is no more.
+But I did want to provide the scripts. I clearly do not expect one to look at each one, but wanted to supply so one could see the scope.
