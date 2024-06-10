@@ -1,0 +1,29 @@
+About Project:
+After a Programmer/Animator approached me to apply to his Sales Animation team, I balked due to not having a readily available portfolio. But they were not taking "no" for an answer.
+The concept came to mind that I should just show them that I can do the job, I would just creat a game, assets created by me and scripted by me. 
+
+Obviously, time was not in abundance, so scope came into play and the main objective to have working code was the priority.
+
+I took a week or to accumulate references, model out arcade cabinets and texture them. 
+Then I brought everything into Unity. 
+Here I wished I could take the time to build out a game level that emulated a real life arcade from the 90's ... but I had to show the team *SOMETHING* and fast. 
+All that was really needed was a beta with code that allowed for a working engine.
+
+Does not mean I am wild about the basic room that this build takes place in, but one had to start somewhere and not worry about the details at the early stages.
+
+I programmed out a simple control on the camera, and recorded a welcoming note. 
+The team was shortly disbanded after my interview.
+
+I would return to make a more fleshed out iteration with aims to show off to perspective employers, my code does contain commented out notes that allude to the changes made.
+The cage-like area was replaced with a modeled out tri level aracde building complete with bathrooms up front, a prize counter, a theatre room and a staircase leading upstairs for more cabinets.
+
+The further aim, was that specific arcade machines would contain mini-games. 
+These games were concepted and code for such was in the infancy stages. Mini-games were not implented in any build of this project.
+
+I would veer away from this project for a myriad of reasons. However, I tend to return to the code as a basis for other projects.
+
+I like to think that this project stressed a quick transition from ideation to rough draft 
+... but more importantly, reminded me to utilized what resources were available to me as well as my mindful abilities to reach a resolution and deliverable.
+
+In this repository, I will upload the code as well as zipped folders that contain the .exe of the deliverable ... in all of it's rushed glory. 
+There will be one zipped folder for the application that runs on Mac as well as another that will be for PCs.
